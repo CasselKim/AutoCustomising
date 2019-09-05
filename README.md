@@ -17,27 +17,27 @@ Thanks to its advanced customization system for player character, BDO will be su
 
 ## Requirement
 
-### Face Detection  : Find the face from picture  (Done)
+### [Face Detection  : Find the face from picture  (Done)](FaceDetection/README.md)
 
 ![image](03.jpg) 
-  
+
   .
-### 2D Face Alignment  : Find 2D annotations from the face for prepare (Done)
+### [2D Face Alignment  : Find 2D annotations from the face for prepare (Done)](Face2DAlign/README.md)
 
 ![image](04.jpg)  
-  
+
   .
-### 3D Face Alignment : Find 3D annotations form the face for practice (Proceeding)
+### [3D Face Alignment : Find 3D annotations form the face for practice (Proceeding)](Face3DAlign/README.md)
 
 ![image](05.jpg)  
-  
+
   .
-### 3D Reconstruction : Reconstruct 3D face model from the 3D annotations using Matlab   (Yet)
+### [Face Reconstruction : Reconstruct 3D face model from the 3D annotations using Matlab   (Yet)](FaceReconstruct/README.md)
 
 ![image](02.jpg)  
-  
+
   .
-### Analyzing binary file  : Analyze BDO's customization binary file  (Proceeding)
+### [Analyzing binary file  : Analyze BDO's customization binary file  (Proceeding)](BinaryAnalysis/README.md)
 
 ![image](07.jpg)
 
