@@ -5,7 +5,7 @@
 
 ## Base game : Black Desert Online (BDO)
 
-: **Black Desert Online** (검은사막) is a sandbox-oriented fantasy MMORPG developed by Korean company Pearl Abyss.   
+**Black Desert Online** (검은사막) is a sandbox-oriented fantasy MMORPG developed by Korean company Pearl Abyss.   
 
 Because of its advanced customization system for player character, I choose BDO for the project.  
 
@@ -19,7 +19,7 @@ Because of its advanced customization system for player character, I choose BDO 
 
 ### Face Detection  : Find the face from picture  (Done)
 
-![image](C:\Users\82103\Desktop\AutoCustomising\03.jpg) 
+![image](03.jpg) 
 
 ### 2D Face Alignment  : Find 2D annotations from the face for prepare (Done)
 
