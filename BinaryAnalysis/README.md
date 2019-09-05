@@ -6,7 +6,7 @@ Binary analysis analyzes the raw binaries that compose a complete application, w
 
 
 
-## #1. Just find differences while changing the character's customization parameter
+## #1. Just find differences changing customization parameter
 
 ![image](images/01.png)
 
@@ -32,5 +32,19 @@ So I control parameters only using Cartesian controller.
 
 * Width Increase : 316th ~ 323th bytes
 * Height Increase : 316th ~ 323th bytes
-* Depth Increase : 324th ~ 331th bytes
+* Depth Increase : 324th ~ 331th bytes  
+
+.  
+
+## #2. Using Binary Analyzer
+
+![image](images/06.png)
+
+These day, a lot of useful algorithms, functions, and tools for binary analysis. Thankfully, most of them offered by open source, free. You are going to use one of them. **B2R2**.  B2R2 is a collection of tools for binary analysis developed by KAIST Prof. Cha. It is *analysis-friendly*, *fast*, *easy*, *OS-independent*, and *interoperable(mutually information-changeable)*.  
+
+  .
+
+Let's take a look at contents.  
+
+[B2R2 Github](https://github.com/B2R2-org/B2R2)
 
